@@ -32,7 +32,7 @@ Por ser uma aplicação puramente *client-side*, não necessita de qualquer inst
 2. Abra o ficheiro `index.html` diretamente em qualquer navegador moderno (Chrome, Firefox, Edge, Safari).
 
 A aplicação está também disponível online via **GitHub Pages**:
-🔗 `https://<o-teu-utilizador>.github.io/<nome-do-repositorio>/`
+🔗 [`(https://m4xw3b.github.io/Wintech_PassGen/)`](https://m4xw3b.github.io/Wintech_PassGen/)
 
 ---
 
@@ -48,7 +48,7 @@ A aplicação está também disponível online via **GitHub Pages**:
 
 ## 👤 Autor
 
-Desenvolvido por **João Fernandes** — Especialista em Desenvolvimento de Software e Gestão de Redes/Sistemas Computacionais.
+Desenvolvido por **João Fernandes** .
 
 *   **LinkedIn:** [O teu link do LinkedIn](https://linkedin.com)
 *   **GitHub:** [O teu link do GitHub](https://github.com)
