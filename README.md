@@ -52,7 +52,6 @@ Desenvolvido por **João Fernandes** — Especialista em Desenvolvimento de Soft
 
 *   **LinkedIn:** [O teu link do LinkedIn](https://linkedin.com)
 *   **GitHub:** [O teu link do GitHub](https://github.com)
-*   **Contacto Profissional:** joao.fernandes@auchan.pt
 
 ---
 *Desenvolvido sob o selo de qualidade e utilidade do ecossistema Wintech.*
