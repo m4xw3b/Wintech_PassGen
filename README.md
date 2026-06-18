@@ -50,8 +50,8 @@ A aplicação está também disponível online via **GitHub Pages**:
 
 Desenvolvido por **João Fernandes** .
 
-*   **LinkedIn:** [O teu link do LinkedIn](https://linkedin.com)
-*   **GitHub:** [O teu link do GitHub](https://github.com)
+*   **LinkedIn:** [(https://pt.linkedin.com/in/joaocdfernandes)](https://pt.linkedin.com/in/joaocdfernandes)
+*   **GitHub:** [(https://github.com/m4xw3b)](https://github.com/m4xw3b)
 
 ---
 *Desenvolvido sob o selo de qualidade e utilidade do ecossistema Wintech.*
